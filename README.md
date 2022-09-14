@@ -5,6 +5,8 @@ It is realized following the MapReduce paradigm, with two different frameworks: 
 
 [Here1](requirements.pdf) are present the requirements of the project and the complete documentation is available [here2](documentation.pdf).
 
+(Repository for cloud computing's project)
+
 ## Main goals are:
 - To design a MapReduce algorithm to implement the bloom filters construction
 - To implement the MapReduce bloom filters construction algorithm using the Hadoop and Spark framework
