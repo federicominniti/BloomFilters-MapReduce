@@ -12,8 +12,8 @@ It is realized following the MapReduce paradigm, with two different frameworks: 
 - To implement the MapReduce bloom filters construction algorithm using the Hadoop and Spark framework
 
 ## Project structure
- - `BloomFilterHadoop`: the Java(8) Hadoop application module
- - `BloomFiltersSpark`: the python(3) Spark application module
+ - `BloomFilterHadoop`: the Java(8) Hadoop application module;
+ - `BloomFiltersSpark`: the python(3) Spark application module.
 
 (The execution of both the modules is completely configurable with the input parameters)
 
